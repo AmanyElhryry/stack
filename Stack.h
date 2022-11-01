@@ -1,4 +1,4 @@
-typedef  int StackEntry ;
+#define StackEntry int
 #define MaxSize 100
 typedef struct stack {
 int top;
